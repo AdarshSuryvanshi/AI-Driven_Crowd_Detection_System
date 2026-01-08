@@ -1,0 +1,31 @@
+
+======================================================================
+AI-BASED PUBLIC SAFETY MONITORING SYSTEM
+Crowd Behavior Anomaly Detection
+======================================================================
+Sequence: TestSynthetic
+Analysis Started: 2026-01-08 16:12:06
+Total Frames: 120
+FPS: 10.00
+======================================================================
+
+
+======================================================================
+DETECTION SUMMARY
+======================================================================
+Sequence: TestSynthetic
+Total Frames Processed: 120
+Total Alerts Generated: 0
+Video Duration: 12.00 seconds
+Alert Rate: 0.000 alerts/frame
+
+RISK DISTRIBUTION:
+  NORMAL    :  118 frames ( 98.3%)
+  LOW       :    1 frames (  0.8%)
+  MEDIUM    :    1 frames (  0.8%)
+  HIGH      :    0 frames (  0.0%)
+  CRITICAL  :    0 frames (  0.0%)
+
+======================================================================
+Analysis Completed: 2026-01-08 16:12:09
+======================================================================
